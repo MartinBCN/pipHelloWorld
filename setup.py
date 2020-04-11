@@ -9,7 +9,7 @@ setup(
   author='YOUR NAME',                   # Type in your name
   author_email='martin-cleven@gmx.net',      # Type in your E-Mail
   url='https://github.com/MartinBCN/pipHelloWorld',   # Provide either the link to your github or to your website
-  download_url='https://github.com/MartinBCN/pipHelloWorld/archive/v_01.tar.gz',    # I explain this later on
+  download_url='https://github.com/MartinBCN/pipHelloWorld/archive/v0.1.tar.gz',    # I explain this later on
   keywords=['HelloWorld'],   # Keywords that define your package best
   install_requires=['numpy',],
   classifiers=[
